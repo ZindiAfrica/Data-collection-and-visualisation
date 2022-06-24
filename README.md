@@ -80,3 +80,6 @@ Zindi has hosted some challenges based on Data Collection and Visualization.
 	
 ## List of Data Collection and Visualization solutions from our hosted challenges:
 
+1. [AFD Solutions for Gender based Violence Challenge](https://github.com/ZindiAfrica/Data-collection-and-visualisation/tree/main/AFD%20Solutions%20for%20Gender%20based%20Violence%20Challenge)
+
+2. [Hack the Continent Open Buildings Challenge](https://github.com/ZindiAfrica/Data-collection-and-visualisation/tree/main/Hack%20the%20Continent%20Open%20Buildings%20Challenge)
